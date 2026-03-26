@@ -1,1 +1,13 @@
-# COOKIE_TYPES_DASHBOARD
+# 🍪 Cookie Types Analysis Dashboard
+### Power BI Project
+
+## 📋 Overview
+This project analyzes sales data for different types of cookies, focusing on profit, cost, and revenue across various cities.
+
+## 🖼️ Dashboard Preview
+![Dashboard Preview](اسم_الصورة_اللي_اخترته.jpeg)
+
+## 🛠️ Tools Used
+* *Power BI:* Data Visualization & Dashboarding.
+* *Excel/CSV:* Data Source.
+*
