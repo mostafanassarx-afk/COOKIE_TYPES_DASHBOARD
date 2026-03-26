@@ -5,7 +5,7 @@
 This project analyzes sales data for different types of cookies, focusing on profit, cost, and revenue across various cities.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](اسم_الصورة_اللي_اخترته.jpeg)
+![Dashboard Preview](Cookie_Preview.jpeg)
 
 ## 🛠️ Tools Used
 * *Power BI:* Data Visualization & Dashboarding.
